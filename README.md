@@ -1,9 +1,76 @@
+<!-- "Hero" Header -->
 <div align="center">
-	<p>
-		<img src="https://github-readme-stats.vercel.app/api?username=dolphingarlic&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" >
-	</p>
+  <img src="images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <br />
+  <br />
+  <img height="50" alt="My Name is Andi and I like maths" src="images/personal_note.svg" />
+  <br />
+  <br />
+
 </div>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=dolphingarlic" alt="Profile views" />
-</p>
+<!-- Social -->
+<table width="100%">
+<tr>
+<td align="center">
+<a href="https://andiqu.com">
+<strong>Visit my personal website </strong>
+<br />
+<br />
+
+<!-- Centering something has never been easy, has it? -->
+
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<img alt="Globe" height="80" src="images/globe.gif?raw=true">
+</a>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+
+</td>
+<td align="center">
+<a href="https://github.com/BrunnerLivio/brunnerlivio/issues/new?template=Guestbook_entry.md">
+<strong>Sign my guest book</strong>
+<br />
+
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<img height="100" alt="Book" src="images/book.gif">
+</a>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+
+</td>
+</tr>
+</table>
+
+<!-- Footer -->
+
+<div align="center">
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="images/marquee.svg" />
+<br />
+
+![Visitor Count](https://profile-counter.glitch.me/dolphingarlic/count.svg)
+
+<img src="images/notepad.gif" alt="Site created with Notepad" height="30" />
+<!-- "margin-right: whatever;" -->
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
+<img src="images/ie_logo.gif" alt="Microsoft Internet Explorer" />
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
+<img src="images/noframes.gif" alt="Microsoft Internet Explorer" />
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="images/thanks.svg" />
+<br />
+
+</div>
