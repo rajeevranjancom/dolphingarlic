@@ -71,6 +71,7 @@
 <img src="https://github.com/dolphingarlic/dolphingarlic/blob/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://github.com/dolphingarlic/dolphingarlic/blob/master/images/thanks.svg" />
-<br />
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=gidc6eskpzj8pv3mo9z7os0hr&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=gidc6eskpzj8pv3mo9z7os0hr&redirect=true)
 
 </div>
